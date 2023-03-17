@@ -12,11 +12,11 @@
 
 
 # ⭐ Featured projects: 
-- ![Final Fantasy XV](https://jesica-a.github.io/Final-Fantasy-XV/)  
+- [Final Fantasy XV](https://jesica-a.github.io/Final-Fantasy-XV/)  
     * Código en el siguiente link: https://github.com/Jesica-A/Final-Fantasy-XV
-- ![Lista Violeta](https://www.listavioleta.site/) 
+- [Lista Violeta](https://www.listavioleta.site/) 
     * Código en el siguiente link: https://github.com/Jesica-A/listavioleta
-- ![Biblioteca Franklin](https://proyectos-tsdwad.github.io/integrador-modulo-fullstack/frontend/pages/index.html) 
+- [Biblioteca Franklin](https://proyectos-tsdwad.github.io/integrador-modulo-fullstack/frontend/pages/index.html) 
     * Código en el siguiente link: https://github.com/proyectos-tsdwad/integrador-modulo-fullstack
 
 
