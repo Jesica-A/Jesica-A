@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Jesica-A/Jesica-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Jesica-A/Jesica-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 # 💫 About Me:
 🔭 I’m currently working on improve my skills<br>👯 I’m looking to collaborate on HTML, CSS, Javascript<br>🤝 I’m looking for help with Javascript<br>🌱 I’m currently learning manual, automated and accesible testing<br>💬 Contact me: jessie.aramayo@gmail.com<br>⚡ Fun fact: ⚡ Fun fact: I like sweet things but not sweet vegetables. Plase, give me a alfajor.
